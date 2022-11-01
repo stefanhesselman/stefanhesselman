@@ -1,6 +1,6 @@
 👋 Hi, I’m Stefan Hesselman.
 
-👀 I’m interested in Bug bounty hunting, hiking, running, home cooking, and studying human psychology.
+👀 I’m interested in discoverying vulnerabilities, bug bounty hunting, hiking, running, home cooking, and studying human psychology.
 
 🌱 I’m currently learning Red Team Operations.
 
